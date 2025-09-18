@@ -1,0 +1,5 @@
+# Example of how a private ABCD install would be wired locally -> No ABCD data shared in this repo
+abcd:
+  imaging_root: "/secure/abcd/imaging/"
+  phenotypic_root: "/secure/abcd/phenotypic/"
+  subject_table: "/secure/abcd/ids.csv"
