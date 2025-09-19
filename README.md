@@ -1,8 +1,8 @@
-# Neurodevelopmental Risk Stratification (HYDRA) — Reproducible, DUA-Safe Demo
-## Brain-Based Risk Stratification (HYDRA) + Explainable Baselines for Precision Psychiatry
+# Brain-Based Risk Stratification for Precision Psychiatry
+## A DUA-safe, reproducible mini-slice from my MSc manuscript with stability and explainability
 
 <p align="center">
-  <a href="#from-manuscript-→-deployable-slice">📄 Manuscript → demo</a> ·
+  <a href="#from-manuscript--deployable-slice">📄 Manuscript → demo</a> ·
   <a href="#quickstart-5-minutes">⏱️ 5-minute demo</a> ·
   <a href="#repo-map-whats-here">🌳 Repo map</a> ·
   <a href="#demo-outputs-saved-files">📊 Outputs</a> ·
