@@ -12,6 +12,19 @@
 
 **Why this exists.** This repo turns my [MSc manuscript (UBC Library)](https://dx.doi.org/10.14288/1.0449762) on brain-based subtyping of asymptomatic high-risk youth (ABCD Study) into a **DUA-safe, production-respectful mini-slice**: one-command demos, stability metrics, and explainable baselines that a clinical team could adapt to their private data tomorrow.
 
+<p align="center">
+  <img alt="status" src="https://img.shields.io/badge/status-UNDER_CONSTRUCTION-orange">
+  <img alt="release" src="https://img.shields.io/badge/release-v0.1.0--alpha-lightgrey">
+  <img alt="data" src="https://img.shields.io/badge/data-DUA--safe%20synthetic-blue">
+</p>
+
+<div align="center">
+
+🚧 **Under construction – This repo is being assembled and some parts may not work yet.** 🚧
+
+</div>
+
+
 > **Clinical framing (a 60-sec take):**
 > HYDRA finds **three neurodevelopmental subtypes** among PH⁺ youth (no baseline diagnoses):
 > 1) **Delayed Maturation — Escalating Risk**
