@@ -1,6 +1,14 @@
 # Neurodevelopmental Risk Stratification (HYDRA) — Reproducible, DUA-Safe Demo
 ## Brain-Based Risk Stratification (HYDRA) + Explainable Baselines for Precision Psychiatry
 
+<p align="center">
+  <a href="#from-manuscript-→-deployable-slice">📄 Manuscript → demo</a> ·
+  <a href="#quickstart-5-minutes">⏱️ 5-minute demo</a> ·
+  <a href="#repo-map-whats-here">🌳 Repo map</a> ·
+  <a href="#demo-outputs-saved-files">📊 Outputs</a> ·
+  <a href="./NOTICE">🔒 Compliance</a>
+</p>
+
 **Why this exists.** This repo turns my MSc manuscript on brain-based subtyping of asymptomatic high-risk youth (ABCD Study) into a **DUA-safe, production-respectful mini-slice**: one-command demos, stability metrics, and explainable baselines that a clinical team could adapt to their private data tomorrow.
 
 > **Clinical framing (a 60-sec take):**
@@ -9,6 +17,43 @@
 > 2) **Atypical Maturation — Latent Vulnerability**
 > 3) **Accelerated Maturation — Resilient Profile**
 > This repo shows how to operationalize stratified monitoring with **reproducible runs**, **stability**, and **transparent signals**.
+
+---
+
+## Visual Overview
+
+> Manuscript evidence on top row; reproducible demo outputs below. Captions in [`figures/LEGENDS.md`](figures/LEGENDS.md). Provenance in [`FIGURES_SOURCES.md`](FIGURES_SOURCES.md).
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+<img src="figures/figure4_brain_signatures.jpg" alt="Aggregate brain maps and effect-size heatmaps for HYDRA subtypes vs PH−" width="100%"><br/>
+<em>Manuscript (fig. 4): Regional neuroimaging signatures (aggregate)</em>
+
+</td>
+<td width="50%" align="center">
+
+<img src="figures/figure5_cbcl_trajectories.jpg" alt="Average CBCL internalizing/externalizing trajectories by subtype and PH−" width="100%"><br/>
+<em>Manuscript (fig. 5): CBCL trajectories (aggregate)</em>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+<img src="figures/fig_stability_ari.png" alt="Synthetic ARI stability bar chart for K=2–4" width="100%"><br/>
+<em>Demo: Bootstrap stability (ARI)</em>
+
+</td>
+<td width="50%" align="center">
+
+<img src="figures/fig_shap_top10.png" alt="Synthetic top-10 feature importance horizontal bar chart" width="100%"><br/>
+<em>Demo: Explainability (top-10 features)</em>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -129,11 +174,10 @@ neuro-stratification-mincred/
 
 ---
 
-## Screenshots
-- **Stability (ARI + bootstrap)** – `figures/fig_stability_ari.png`
-- **Subtype heatmap (synthetic)** – `figures/fig_subtype_heatmap.png`
-- **Explainability (top-10 features)** – `figures/fig_shap_top10.png`
-- **CBCL trajectories (aggregate, manuscript)** – `figures/figure5_cbcl_trajectories.png`
+## Demo outputs (saved files)
+- Stability (ARI + bootstrap): [`figures/fig_stability_ari.png`](figures/fig_stability_ari.png)
+- Explainability (top-10 features): [`figures/fig_shap_top10.png`](figures/fig_shap_top10.png)
+- Auto-report (clinical-style summary): [`reports/demo_summary.md`](reports/demo_summary.md)
 
 ---
 
