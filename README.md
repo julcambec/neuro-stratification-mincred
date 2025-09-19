@@ -1,4 +1,4 @@
-# Manuscript → Deployable Slice
+# Neurodevelopmental Risk Stratification (HYDRA) — Reproducible, DUA-Safe Demo
 ## Brain-Based Risk Stratification (HYDRA) + Explainable Baselines for Precision Psychiatry
 
 **Why this exists.** This repo turns my MSc manuscript on brain-based subtyping of asymptomatic high-risk youth (ABCD Study) into a **DUA-safe, production-respectful mini-slice**: one-command demos, stability metrics, and explainable baselines that a clinical team could adapt to their private data tomorrow.
