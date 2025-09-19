@@ -2,14 +2,15 @@
 ## A DUA-safe, reproducible mini-slice from my MSc manuscript with stability and explainability
 
 <p align="center">
-  <a href="#from-manuscript--deployable-slice">📄 Manuscript → demo</a> ·
+  <a href="https://dx.doi.org/10.14288/1.0449762">📄 MSc thesis (UBC Library)</a> ·
+  <a href="#from-manuscript--deployable-slice">⚙️ Manuscript → demo</a> ·
   <a href="#quickstart-5-minutes">⏱️ 5-minute demo</a> ·
   <a href="#repo-map-whats-here">🌳 Repo map</a> ·
   <a href="#demo-outputs-saved-files">📊 Outputs</a> ·
   <a href="./NOTICE">🔒 Compliance</a>
 </p>
 
-**Why this exists.** This repo turns my MSc manuscript on brain-based subtyping of asymptomatic high-risk youth (ABCD Study) into a **DUA-safe, production-respectful mini-slice**: one-command demos, stability metrics, and explainable baselines that a clinical team could adapt to their private data tomorrow.
+**Why this exists.** This repo turns my [MSc manuscript (UBC Library)](https://dx.doi.org/10.14288/1.0449762) on brain-based subtyping of asymptomatic high-risk youth (ABCD Study) into a **DUA-safe, production-respectful mini-slice**: one-command demos, stability metrics, and explainable baselines that a clinical team could adapt to their private data tomorrow.
 
 > **Clinical framing (a 60-sec take):**
 > HYDRA finds **three neurodevelopmental subtypes** among PH⁺ youth (no baseline diagnoses):
@@ -29,13 +30,13 @@
 <td width="50%" align="center">
 
 <img src="figures/figure4_brain_signatures.jpg" alt="Aggregate brain maps and effect-size heatmaps for HYDRA subtypes vs PH−" width="100%"><br/>
-<em>Manuscript (fig. 4): Regional neuroimaging signatures (aggregate)</em>
+<em>Manuscript (fig. 4): Regional neuroimaging signatures (aggregate). Source: <a href="https://dx.doi.org/10.14288/1.0449762">UBC Library record</a></sub></em>
 
 </td>
 <td width="50%" align="center">
 
 <img src="figures/figure5_cbcl_trajectories.jpg" alt="Average CBCL internalizing/externalizing trajectories by subtype and PH−" width="100%"><br/>
-<em>Manuscript (fig. 5): CBCL trajectories (aggregate)</em>
+<em>Manuscript (fig. 5): CBCL trajectories (aggregate). Source: <a href="https://dx.doi.org/10.14288/1.0449762">UBC Library record</a></sub></em>
 
 </td>
 </tr>
@@ -196,4 +197,5 @@ neuro-stratification-mincred/
 
 ## License & citation
 - License: see **[LICENSE](./LICENSE)**.
-- If you reference the manuscript, please cite the MSc thesis (link in `/paper/`).
+- If you reference the manuscript, please cite the MSc thesis.
+- Manuscript record: [UBC Library catalogue](https://dx.doi.org/10.14288/1.0449762) (official landing page; no PDF in this repo).
